@@ -1,0 +1,2 @@
+model_checkpoint_path: "DenseNNCDD_Classificator.ckpt"
+all_model_checkpoint_paths: "DenseNNCDD_Classificator.ckpt"
